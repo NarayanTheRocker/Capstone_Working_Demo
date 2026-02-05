@@ -11,7 +11,7 @@
 # # ==========================
 # # LLM client
 # # ==========================
-# client = Groq(api_key="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")
+# client = Groq(api_key="")
 
 # # ==========================
 # # KG TOOL
@@ -133,7 +133,7 @@ for node, data in G.nodes(data=True):
 # 2. LLM Client
 # ==========================
 # Replace with your NEW API Key (Revoke the old one!)
-client = Groq(api_key=os.environ.get("GROQ_API_KEY", "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"))
+client = Groq(api_key=os.environ.get("GROQ_API_KEY", ""))
 
 # ==========================
 # 3. Helper: Clean JSON
@@ -258,4 +258,5 @@ while True:
         print(answer.choices[0].message.content)
 
     except Exception as e:
+
         print(f"An error occurred: {e}")
