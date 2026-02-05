@@ -1,0 +1,16 @@
+course_id,course_name,department
+CSE1001,Programming in C,CSE
+CSE1002,Object Oriented Programming,CSE
+CSE2001,Data Structures,CSE
+CSE2002,Operating Systems,CSE
+CSE2003,Database Management Systems,CSE
+CSE3001,Machine Learning,CSE
+CSE3002,Computer Networks,CSE
+CSE3003,Software Engineering,CSE
+CSE4001,Cloud Computing,CSE
+CSE4002,Artificial Intelligence,CSE
+MECH1001,Engineering Mechanics,MECH
+MECH2001,Thermodynamics,MECH
+MECH2002,Fluid Mechanics,MECH
+MECH3001,Machine Design,MECH
+MECH4001,Robotics,MECH

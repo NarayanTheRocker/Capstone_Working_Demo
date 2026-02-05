@@ -1,0 +1,2994 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="grade" attr.type="string"/>
+<key id="d4" for="edge" attr.name="semester" attr.type="string"/>
+<key id="d3" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d2" for="node" attr.name="year" attr.type="long"/>
+<key id="d1" for="node" attr.name="name" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="MECH">
+  <data key="d0">Department</data>
+  <data key="d1">MECH</data>
+</node>
+<node id="CSE">
+  <data key="d0">Department</data>
+  <data key="d1">CSE</data>
+</node>
+<node id="VU22CSEN0300001">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300002">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300003">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300004">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300005">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300006">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300007">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300008">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300009">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300010">
+  <data key="d0">Student</data>
+  <data key="d1">Aman</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300011">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300012">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300013">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300014">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300015">
+  <data key="d0">Student</data>
+  <data key="d1">Aman</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300016">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300017">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300018">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300019">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300020">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300021">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300022">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300023">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300024">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300025">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300026">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300027">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300028">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300029">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300030">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300031">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300032">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300033">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300034">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300035">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300036">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300037">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300038">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300039">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300040">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300041">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300042">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300043">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300044">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300045">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300046">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300047">
+  <data key="d0">Student</data>
+  <data key="d1">Aman</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300048">
+  <data key="d0">Student</data>
+  <data key="d1">Aman</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300049">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300050">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300051">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300052">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300053">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300054">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300055">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300056">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300057">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300058">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300059">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300060">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300061">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300062">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300063">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300064">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300065">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300066">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300067">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300068">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300069">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300070">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300071">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22CSEN0300072">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300073">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300074">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300075">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300076">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300077">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300078">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300079">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300080">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300081">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300082">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300083">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300084">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300085">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300086">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300087">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300088">
+  <data key="d0">Student</data>
+  <data key="d1">Pooja</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300089">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22MECHN0300090">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300091">
+  <data key="d0">Student</data>
+  <data key="d1">Karan</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22CSEN0300092">
+  <data key="d0">Student</data>
+  <data key="d1">Arjun</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300093">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300094">
+  <data key="d0">Student</data>
+  <data key="d1">Riya</data>
+  <data key="d2">2</data>
+</node>
+<node id="VU22MECHN0300095">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22MECHN0300096">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300097">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">1</data>
+</node>
+<node id="VU22CSEN0300098">
+  <data key="d0">Student</data>
+  <data key="d1">Neha</data>
+  <data key="d2">4</data>
+</node>
+<node id="VU22MECHN0300099">
+  <data key="d0">Student</data>
+  <data key="d1">Anjali</data>
+  <data key="d2">3</data>
+</node>
+<node id="VU22CSEN0300100">
+  <data key="d0">Student</data>
+  <data key="d1">Rahul</data>
+  <data key="d2">1</data>
+</node>
+<node id="CSE1001">
+  <data key="d0">Course</data>
+  <data key="d1">Programming in C</data>
+</node>
+<node id="CSE1002">
+  <data key="d0">Course</data>
+  <data key="d1">Object Oriented Programming</data>
+</node>
+<node id="CSE2001">
+  <data key="d0">Course</data>
+  <data key="d1">Data Structures</data>
+</node>
+<node id="CSE2002">
+  <data key="d0">Course</data>
+  <data key="d1">Operating Systems</data>
+</node>
+<node id="CSE2003">
+  <data key="d0">Course</data>
+  <data key="d1">Database Management Systems</data>
+</node>
+<node id="CSE3001">
+  <data key="d0">Course</data>
+  <data key="d1">Machine Learning</data>
+</node>
+<node id="CSE3002">
+  <data key="d0">Course</data>
+  <data key="d1">Computer Networks</data>
+</node>
+<node id="CSE3003">
+  <data key="d0">Course</data>
+  <data key="d1">Software Engineering</data>
+</node>
+<node id="CSE4001">
+  <data key="d0">Course</data>
+  <data key="d1">Cloud Computing</data>
+</node>
+<node id="CSE4002">
+  <data key="d0">Course</data>
+  <data key="d1">Artificial Intelligence</data>
+</node>
+<node id="MECH1001">
+  <data key="d0">Course</data>
+  <data key="d1">Engineering Mechanics</data>
+</node>
+<node id="MECH2001">
+  <data key="d0">Course</data>
+  <data key="d1">Thermodynamics</data>
+</node>
+<node id="MECH2002">
+  <data key="d0">Course</data>
+  <data key="d1">Fluid Mechanics</data>
+</node>
+<node id="MECH3001">
+  <data key="d0">Course</data>
+  <data key="d1">Machine Design</data>
+</node>
+<node id="MECH4001">
+  <data key="d0">Course</data>
+  <data key="d1">Robotics</data>
+</node>
+<node id="P01">
+  <data key="d0">Professor</data>
+  <data key="d1">Dr. Sharma</data>
+</node>
+<node id="P02">
+  <data key="d0">Professor</data>
+  <data key="d1">Dr. Rao</data>
+</node>
+<node id="P03">
+  <data key="d0">Professor</data>
+  <data key="d1">Dr. Mehta</data>
+</node>
+<node id="P04">
+  <data key="d0">Professor</data>
+  <data key="d1">Dr. Singh</data>
+</node>
+<edge source="MECH" target="VU22MECHN0300002">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300005">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300006">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300007">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300009">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300010">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300012">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300013">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300015">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300020">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300022">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300025">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300026">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300028">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300030">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300032">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300034">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300035">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300036">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300037">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300040">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300041">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300042">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300043">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300047">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300051">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300055">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300059">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300060">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300062">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300064">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300066">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300067">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300074">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300075">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300076">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300080">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300081">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300083">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300086">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300087">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300090">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300091">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300095">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300096">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300097">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="VU22MECHN0300099">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="MECH" target="MECH1001">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="MECH" target="MECH2001">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="MECH" target="MECH2002">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="MECH" target="MECH3001">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="MECH" target="MECH4001">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="MECH" target="P03">
+  <data key="d3">WORKS_IN</data>
+</edge>
+<edge source="MECH" target="P04">
+  <data key="d3">WORKS_IN</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300001">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300003">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300004">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300008">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300011">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300014">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300016">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300017">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300018">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300019">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300021">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300023">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300024">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300027">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300029">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300031">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300033">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300038">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300039">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300044">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300045">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300046">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300048">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300049">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300050">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300052">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300053">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300054">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300056">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300057">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300058">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300061">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300063">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300065">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300068">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300069">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300070">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300071">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300072">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300073">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300077">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300078">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300079">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300082">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300084">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300085">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300088">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300089">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300092">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300093">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300094">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300098">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="VU22CSEN0300100">
+  <data key="d3">BELONGS_TO</data>
+</edge>
+<edge source="CSE" target="CSE1001">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE1002">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE2001">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE2002">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE2003">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE3001">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE3002">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE3003">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE4001">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="CSE4002">
+  <data key="d3">OFFERED_BY</data>
+</edge>
+<edge source="CSE" target="P01">
+  <data key="d3">WORKS_IN</data>
+</edge>
+<edge source="CSE" target="P02">
+  <data key="d3">WORKS_IN</data>
+</edge>
+<edge source="VU22CSEN0300001" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300001" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300001" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300001" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300002" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300002" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300002" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300002" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300003" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300003" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300003" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300003" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300004" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300004" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300004" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300004" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300005" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300005" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300005" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300005" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300006" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300006" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300006" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300006" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300007" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300007" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300007" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300007" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300008" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300008" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300008" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300008" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300009" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300009" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300009" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300009" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300010" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300010" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300010" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300010" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300011" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300011" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300011" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300011" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300012" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300012" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300012" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300012" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300013" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300013" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300013" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300013" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300014" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300014" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300014" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300014" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300015" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300015" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300015" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300015" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300016" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300016" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300016" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300016" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300017" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300017" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300017" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300017" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300018" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300018" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300018" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300018" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300019" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300019" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300019" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300019" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300020" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300020" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300020" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300020" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300021" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300021" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300021" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300021" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300022" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300022" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300022" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300022" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300023" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300023" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300023" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300023" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300024" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300024" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300024" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300024" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300025" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300025" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300025" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300025" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300026" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300026" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300026" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300026" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300027" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300027" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300027" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300027" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300028" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300028" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300028" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300028" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300029" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300029" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300029" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300029" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300030" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300030" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300030" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300030" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300031" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300031" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300031" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300031" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300032" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300032" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300032" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300032" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300033" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300033" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300033" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300033" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300034" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300034" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300034" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300034" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300035" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300035" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300035" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300035" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300036" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300036" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300036" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300036" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300037" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300037" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300037" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300037" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300038" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300038" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300038" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300038" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300039" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300039" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300039" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300039" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300040" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300040" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300040" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300040" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300041" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300041" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300041" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300041" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300042" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300042" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300042" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300042" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300043" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300043" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300043" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300043" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300044" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300044" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300044" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300044" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300045" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300045" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300045" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300045" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300046" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300046" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300046" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300046" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300047" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300047" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300047" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300047" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300048" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300048" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300048" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300048" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300049" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300049" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300049" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300049" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300050" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300050" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300050" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300050" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300051" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300051" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300051" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300051" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300052" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300052" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300052" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300052" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300053" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300053" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300053" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300053" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300054" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300054" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300054" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300054" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300055" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300055" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300055" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300055" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300056" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300056" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300056" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300056" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300057" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300057" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300057" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300057" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300058" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300058" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300058" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300058" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300059" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300059" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300059" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300059" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300060" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300060" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300060" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300060" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300061" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300061" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300061" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300061" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300062" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300062" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300062" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300062" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300063" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300063" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300063" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300063" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300064" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300064" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300064" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300064" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300065" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300065" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300065" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300065" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300066" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300066" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300066" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300066" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300067" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300067" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300067" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300067" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300068" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300068" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300068" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300068" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300069" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300069" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300069" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300069" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300070" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300070" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300070" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300070" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300071" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300071" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300071" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300071" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300072" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300072" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300072" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300072" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300073" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300073" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300073" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300073" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300074" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300074" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300074" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300074" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300075" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300075" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300075" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300075" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300076" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300076" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300076" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300076" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300077" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300077" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300077" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300077" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300078" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300078" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300078" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300078" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300079" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300079" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300079" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300079" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300080" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300080" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300080" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300080" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300081" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300081" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300081" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300081" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300082" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300082" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300082" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300082" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300083" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300083" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300083" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300083" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300084" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300084" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300084" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300084" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300085" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300085" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300085" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300085" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300086" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300086" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300086" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300086" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300087" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300087" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300087" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300087" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300088" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300088" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300088" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300088" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300089" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300089" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300089" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300089" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300090" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300090" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300090" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300090" target="MECH4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300091" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300091" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300091" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300091" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300092" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300092" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300092" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300092" target="CSE2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300093" target="MECH1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300093" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300093" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300093" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300094" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300094" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300094" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300094" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300095" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300095" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300095" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300095" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300096" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300096" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300096" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300096" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300097" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300097" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22MECHN0300097" target="CSE3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22MECHN0300097" target="CSE3003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300098" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300098" target="MECH2002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22CSEN0300098" target="CSE3002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300098" target="CSE4001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300099" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300099" target="MECH2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300099" target="CSE4002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">B</data>
+</edge>
+<edge source="VU22MECHN0300099" target="CSE1001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300100" target="MECH3001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300100" target="CSE2001">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="VU22CSEN0300100" target="CSE2003">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">A</data>
+</edge>
+<edge source="VU22CSEN0300100" target="CSE1002">
+  <data key="d3">REGISTERED_FOR</data>
+  <data key="d4">2024-Spring</data>
+  <data key="d5">C</data>
+</edge>
+<edge source="CSE1001" target="P01">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE1002" target="P01">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE2001" target="P02">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE2002" target="P01">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE2003" target="P01">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE3001" target="P01">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE3002" target="P01">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE3003" target="P02">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE4001" target="P01">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="CSE4002" target="P01">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="MECH1001" target="P03">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="MECH2001" target="P03">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="MECH2002" target="P04">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="MECH3001" target="P03">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+<edge source="MECH4001" target="P04">
+  <data key="d3">TAUGHT_BY</data>
+</edge>
+</graph></graphml>
