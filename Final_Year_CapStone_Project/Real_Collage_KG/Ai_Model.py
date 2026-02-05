@@ -9,7 +9,7 @@ from groq import Groq
 # 1. SETUP & SAFETY
 # ==========================
 # ⚠️ I removed your API key. Please use environment variables or paste a NEW key below.
-api_key = os.environ.get("GROQ_API_KEY", "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")
+api_key = os.environ.get("GROQ_API_KEY", "")
 
 if not api_key:
     raise ValueError("❌ Please set GROQ_API_KEY environment variable or paste it in the script.")
@@ -132,4 +132,5 @@ Answer:
     )
 
     print("\n📝 Answer:")
+
     print(answer.choices[0].message.content)
