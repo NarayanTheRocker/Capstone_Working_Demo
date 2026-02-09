@@ -13,7 +13,7 @@
 # # ==================================================
 
 # # ⚠️ Set your API Key here or in Environment Variables
-# api_key = os.environ.get("GROQ_API_KEY", "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")
+# api_key = os.environ.get("GROQ_API_KEY", "")
 # client = Groq(api_key=api_key)
 
 # # Global variables for data
@@ -199,7 +199,7 @@ app = Flask(__name__)
 # 1. SETUP & DATA LOADING
 # ==================================================
 # ⚠️ Set your API Key
-api_key = os.environ.get("GROQ_API_KEY", "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")
+api_key = os.environ.get("GROQ_API_KEY", "")
 client = Groq(api_key=api_key)
 
 G = None
@@ -367,4 +367,5 @@ def chat():
     return jsonify({"reply": bot_reply})
 
 if __name__ == "__main__":
+
     app.run(debug=True, port=5000)
